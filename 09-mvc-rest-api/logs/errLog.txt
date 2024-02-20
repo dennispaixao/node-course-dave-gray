@@ -1,0 +1,3 @@
+20240220	14:44:31	2462d38e-b187-447d-b875-c29ac75b1ffc	Error: ENOENT: no such file or directory, stat 'C:\Users\denni\Desktop\cursos Dave Gray\Node\08-routing\views\subdir\test.html'
+20240220	14:45:21	60e2b812-7c63-4e79-8294-1d233905cb2b	Error: ENOENT: no such file or directory, stat 'C:\Users\denni\Desktop\cursos Dave Gray\Node\08-routing\views\subdir\test.html'
+20240220	14:46:15	adb3b17a-28d8-4cd9-821b-3ade5e56d99f	Error: ENOENT: no such file or directory, stat 'C:\Users\denni\Desktop\cursos Dave Gray\Node\08-routing\views\subdir\index.html'
