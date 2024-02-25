@@ -29,3 +29,14 @@
 20240220	14:46:44	033c0db8-fb09-42c0-9376-0ad9d9059cdb	GET	undefined	/subdir/
 20240220	14:46:49	c1493635-e9bd-433f-babe-a0ae36788d84	GET	undefined	/subdir/test
 20240220	14:47:41	5d7a2186-011d-4a1b-baec-f59350b95566	GET	undefined	/employees/
+20240220	16:56:34	b5ce6292-0b24-4148-a75b-2e84e2e55faf	GET	undefined	/
+20240220	16:56:54	68afb51e-da90-4ef0-865c-55b0a189a306	GET	undefined	/employees/
+20240220	16:57:51	4a16a578-3e21-4f5c-b7f6-b2403c236f24	POST	undefined	/employees/
+20240220	16:58:32	4592e4f4-6300-4508-9dde-b9f1a8c8a297	POST	undefined	/employees/
+20240220	16:59:03	d09ee59f-5058-4ed4-b09a-9186feaa6de2	POST	undefined	/employees/
+20240220	16:59:16	111056cc-0305-470e-91ab-441a4af46886	POST	undefined	/employees/
+20240220	17:00:15	7233c445-149e-4936-b1ac-5379b70e3028	POST	undefined	/employees/
+20240220	17:00:40	18255192-d9d4-4876-9876-b59039395fa3	PUT	undefined	/employees/
+20240220	17:00:45	d8736852-0294-4299-a7ec-f6b04e579f85	PUT	undefined	/employees/
+20240220	17:01:02	445b5a51-ef53-4513-aede-efaa161ee79c	DELETE	undefined	/employees/
+20240220	17:01:07	816817b8-a7f4-4d94-8ab6-3816b41b9003	DELETE	undefined	/employees/

@@ -1,0 +1,5 @@
+gerar senha de acesso pelo terminal:
+
+require('crypto').randomBytes(64).toString('hex')
+
+senha mongodb = 5srpLnWnImzPf411
